@@ -1,0 +1,120 @@
+What is a function in Python?
+Why do we use functions?
+What is the difference between a function definition and a function call?
+What is the difference between parameters and arguments?
+What happens if a function does not return anything?
+What is the difference between print() and return?
+Can a function return multiple values?
+Are functions first-class objects in Python?
+Can you assign a function to a variable?
+Can a function be passed as an argument?
+How are functions stored in memory?
+What is the scope of variables inside a function?
+What is variable shadowing?
+Explain local and global variables.
+What is the LEGB rule?
+What are positional arguments?
+What are keyword arguments?
+What are default arguments?
+What are variable-length arguments?
+Difference between *args and **kwargs.
+When would you use *args?
+When would you use **kwargs?
+Can positional arguments appear after keyword arguments?
+What happens if required arguments are missing?
+Explain positional-only parameters.
+Explain keyword-only parameters.
+Why are mutable default arguments dangerous?
+How would you fix the mutable default argument problem?
+What is a nested function?
+Why would you define a function inside another function?
+Can an inner function access outer function variables?
+Explain lexical scoping.
+What is the lifetime of a nested function?
+Can a nested function be returned?
+What is a closure?
+What conditions are required to create a closure?
+How does a closure differ from a regular nested function?
+Explain the role of free variables in closures.
+What is the purpose of nonlocal?
+Difference between global and nonlocal.
+Where are closures used in real-world applications?
+How are closures used in caching?
+How are closures used in authentication systems?
+How are closures used in rate limiting?
+What is a higher-order function?
+Give examples of higher-order functions in Python.
+Why are functions called first-class citizens?
+Explain map().
+Explain filter().
+Explain reduce().
+Explain sorted() with a custom key.
+When should you use map() instead of loops?
+Why is filter() considered functional programming?
+Compare list comprehensions with map().
+What is a decorator?
+Why do we use decorators?
+How do decorators work internally?
+Explain the relationship between decorators and closures.
+What is functools.wraps and why is it used?
+What happens if wraps is not used?
+How do decorators accept arguments?
+Explain decorator chaining.
+How are decorators used in Flask?
+How are decorators used in FastAPI?
+How are decorators used in Django?
+How would you implement API rate limiting using decorators?
+How would you implement role-based access control using decorators?
+What is recursion?
+What is a base case in recursion?
+Why is the base case important?
+Difference between recursion and iteration.
+When should recursion be avoided?
+What is stack overflow in recursion?
+Explain recursion memory usage.
+Why doesn't Python optimize tail recursion?
+What is the recursion limit in Python?
+Where is recursion used in file systems?
+Where is recursion used in web crawlers?
+Where is recursion used in compilers?
+Why are decorators usually implemented using closures?
+Can a decorator work without a closure?
+Is every closure a nested function?
+Is every nested function a closure?
+Why is the wrapper function typically nested inside a decorator?
+How do closures retain values after the outer function has finished execution?
+How would you implement a cache without using a class?
+How would you count API calls using closures?
+How would you log function execution times?
+How would you secure sensitive functions?
+How would you create reusable validation logic?
+How would you implement retry logic for failed API calls?
+How would you implement rate limiting?
+How would you implement memoization?
+How would you build a plugin system using higher-order functions?
+How would you create configurable decorators?
+What are pure functions?
+What are impure functions?
+What are side effects in functions?
+What is the difference between a named function and an anonymous function?
+What is a lambda function?
+When should lambda functions be used?
+What are the limitations of lambda functions?
+Can lambda functions have multiple expressions?
+How do lambda functions work with map(), filter(), and sorted()?
+What is function composition?
+What is currying and how is it related to closures?
+What is partial function application?
+What is the difference between a closure and a class?
+When would you choose a closure over a class?
+How does Python handle function arguments internally?
+Are arguments passed by value or by reference in Python?
+Explain the concept of pass-by-object-reference.
+What is argument unpacking?
+How do * and ** work during function calls?
+Can functions be stored in data structures such as lists and dictionaries?
+Can a function return another function?
+Can a function accept another function and return a function?
+What are callback functions?
+Where are callback functions used in real-world applications?
+What is the difference between callbacks and higher-order functions?
