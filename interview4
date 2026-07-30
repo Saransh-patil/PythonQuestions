@@ -1,0 +1,117 @@
+What is a class?
+What is an object?
+What is the difference between a class and an object?
+Why do we create objects?
+Can we create multiple objects from a single class?
+Where are objects stored?
+What is the purpose of the self keyword?
+Is self a keyword in Python?
+Why is self passed as the first parameter to instance methods?
+Can we rename self? If yes, should we?
+What are the four pillars of Object-Oriented Programming (OOP)?
+What is polymorphism? Explain with an example.
+What is Duck Typing in Python?
+What is Dynamic Binding?
+What is Operator Overloading? Give an example.
+What is a constructor?
+What are the types of constructors in Python?
+Can a class have multiple constructors?
+What happens if a constructor is not defined?
+What is the difference between a constructor and a normal method?
+Can a constructor return a value?
+Can we call a constructor explicitly?
+Can a constructor call another method?
+What is constructor chaining?
+What happens if the parent class has a parameterized constructor?
+What is encapsulation?
+Why do we need encapsulation?
+Explain public, protected, and private members.
+Does Python truly support private variables?
+What is Name Mangling?
+How can we access private variables?
+What is the difference between encapsulation and abstraction?
+What are the advantages of encapsulation?
+What is inheritance?
+Why do we use inheritance?
+What are the different types of inheritance?
+Does Python support multiple inheritance?
+What is multilevel inheritance?
+What is hierarchical inheritance?
+What is hybrid inheritance?
+What is the difference between inheritance and composition?
+What is a real-life example of inheritance?
+When should inheritance NOT be used?
+Why can multiple inheritance become complicated?
+What is Method Resolution Order (MRO)?
+What is the Diamond Problem?
+How does Python solve the Diamond Problem?
+Explain C3 Linearization.
+What is method overriding?
+Why is method overriding used?
+What is the difference between method overriding and method overloading?
+Does Python support method overloading?
+What happens if a child class doesn't override a method?
+Can constructors be overridden?
+Can private methods be overridden?
+What is runtime polymorphism?
+What is super()?
+Why do we use super()?
+Can super() be used to access parent variables?
+Can we use the parent class name instead of super()?
+How does super() work in multiple inheritance?
+What are the advantages of using super()?
+What is abstraction?
+What is the difference between abstraction and encapsulation?
+What is an abstract class?
+Can we create an object of an abstract class?
+What is an abstract method?
+Why do we use abstract classes?
+Which module provides abstract class support?
+What is the difference between an interface and an abstract class?
+Can an abstract class have constructors, variables, and concrete methods?
+When should we choose an abstract class?
+What is an exception?
+What is the difference between a syntax error and an exception?
+What is the purpose of the try block?
+What is the purpose of the except block?
+What is the purpose of the else block?
+What is the purpose of the finally block?
+When does the finally block execute?
+What is the difference between raise and assert?
+Can we write multiple except blocks?
+What is the difference between Exception and BaseException?
+What is the difference between an Error and an Exception?
+What is a custom exception?
+Why do we create custom exceptions?
+What is the difference between ValueError and TypeError?
+Why should we catch specific exceptions instead of using a generic except?
+Why do we use files?
+What are the different file opening modes?
+What is the difference between r and r+?
+What is the difference between w and a?
+What is the difference between text mode and binary mode?
+What does the seek() method do?
+What does the tell() method do?
+What is the difference between read(), readline(), and readlines()?
+Why should we use the with statement?
+What happens if a file is not closed?
+What is buffering in file handling?
+What is a text file?
+What is a binary file?
+What is the difference between a CSV file and a TXT file?
+What are the advantages of file handling?
+What is serialization?
+What is deserialization?
+Why is serialization required?
+What are the advantages of serialization?
+What is the difference between Pickle and JSON?
+Why is JSON preferred over Pickle in many applications?
+What are the limitations of Pickle?
+Can Pickle serialize every Python object?
+Where is serialization commonly used?
+Explain a real-world use case of serialization.
+What is the difference between isinstance() and type()?
+When should you use isinstance() instead of type()?
+What is the purpose of issubclass()?
+What is the difference between dir() and help()?
+How do you inspect an object's attributes and methods?
